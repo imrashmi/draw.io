@@ -77,14 +77,14 @@
         <mxCell id="qP-ptkdwz3GpzIyoI9f6-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;I&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qP-ptkdwz3GpzIyoI9f6-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.597;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="qP-ptkdwz3GpzIyoI9f6-32" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.597;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="554.8199999999999" y="301" as="sourcePoint" />
             <mxPoint x="554" y="350" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qP-ptkdwz3GpzIyoI9f6-33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qP-ptkdwz3GpzIyoI9f6-33" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="555" y="260" as="sourcePoint" />
             <mxPoint x="554.8199999999999" y="215" as="targetPoint" />
@@ -96,6 +96,18 @@
         </mxCell>
         <mxCell id="qP-ptkdwz3GpzIyoI9f6-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=solid;fillColor=#003333;" vertex="1" parent="1">
           <mxGeometry x="570" y="355" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qP-ptkdwz3GpzIyoI9f6-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-minus-128.png" vertex="1" parent="1">
+          <mxGeometry x="565" y="335" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qP-ptkdwz3GpzIyoI9f6-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-plus-round-128.png" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="200" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qP-ptkdwz3GpzIyoI9f6-44" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="250" as="sourcePoint" />
+            <mxPoint x="150" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
